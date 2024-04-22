@@ -29,3 +29,5 @@ These scripts are straightforward to use. You will need to ensure your spells/it
 ## Usage
 It is **HIGHLY advised** that you do not use these scripts while playing on a Real Tibia (RT) server or an OT server that you do not own. Use these scripts responsibly and ethically, ensuring no harm or disruption to others' gameplay.
 
+To use a script, simply double click it to run, and the rest will be handled by the script.
+
